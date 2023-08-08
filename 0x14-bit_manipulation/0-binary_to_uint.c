@@ -2,8 +2,8 @@
 
 /**
  * binary_to_uint - converts a binary number to unsigned int
- * @b: string containing the binary number
- * in the class
+ * @b: string containing the binary number in the funtion
+ *
  * Return: the converted number
  */
 unsigned int binary_to_uint(const char *b)
@@ -23,4 +23,5 @@ unsigned int binary_to_uint(const char *b)
 
 	return (dec_val);
 }
+
 
